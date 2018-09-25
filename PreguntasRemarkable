@@ -57,7 +57,7 @@ Los principios básicos son:
 Una historia de usuario es una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. Las historias de usuario son utilizadas en las metodologías de desarrollo ágiles para la especificación de requisitos.
 
 ##10. Haz un resumen sobre que se entiende por Lean software y qué principios lo rigen. 
-
+Lean Development (LD) es el método menos divulgado entre los conocidamente importantes. Se inspira en el éxito del proceso industrial Lean Manufacturing, bien conocido en la producción automotriz y en manufactura desde la década de 1980.
 Los principios son:
 • Optimizar el todo,
 • Eliminar desperdicios,
