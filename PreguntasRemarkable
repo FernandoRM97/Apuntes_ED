@@ -59,12 +59,14 @@ Una historia de usuario es una representación de un requisito escrito en una o 
 ##10. Haz un resumen sobre que se entiende por Lean software y qué principios lo rigen. 
 Lean Development (LD) es el método menos divulgado entre los conocidamente importantes. Se inspira en el éxito del proceso industrial Lean Manufacturing, bien conocido en la producción automotriz y en manufactura desde la década de 1980.
 Los principios son:
-• Optimizar el todo,
-• Eliminar desperdicios,
-• Calidad en la construcción,
-• Aprender constantemente,
-• Entregar rápido,
+• Optimizar el todo
+• Eliminar desperdicios
+• Calidad en la construcción
+• Aprender constantemente
+• Entregar rápido
 • Involucrar a todo el mundo
 • Seguir mejorando
 
 ##11. KANBAN. Estudia las ventajas e inconvenientes de tener una pizarra web digital para la metodología Kanban.
+**Ventajas**
+
