@@ -1,2 +1,20 @@
 #Herramientas de desarrollo
 **1. ¿Para que sirve un compilador? ¿Qué tipo de archivo obtenemos tras compilar?**
+Un compilador es un programa informático que traduce un programa que ha sido escrito en un lenguaje de programación a un lenguaje diferente, usualmente lenguaje de máquina, aunque también puede ser traducido a un código intermedio (bytecode) o a texto. Tras compilar se crea un archivo ejecutable, que su extensión depende del programa en el cual haya sido programado, por ejemplo si esta programado en Java será .class o si es en C su extensión será .c .
+
+http://www.programa-me.com/documents/GuiaCompilacionCLI.pdf
+https://brainly.lat/tarea/5177532#readmore
+
+**2.¿Para que sirve un enlazador? ¿Qué tipo de archivo obtenemos tras enlazar?**
+
+**3.¿Para que sirve un interprete? ¿Obtenemos algún archivo tras interpretar?**
+
+**4.Explica cada uno de los siguientes conceptos e indica la relación entre ellos.**
+
+- código fuente
+- código objeto
+- código binario
+
+**5.¿Qué tipo de código es el bytecode generado por el compilador de Java?**
+
+**Bibliografía**
