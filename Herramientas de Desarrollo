@@ -1,5 +1,6 @@
 #Herramientas de desarrollo
 **1. ¿Para que sirve un compilador? ¿Qué tipo de archivo obtenemos tras compilar?**
+
 Un compilador es un programa informático que traduce un programa que ha sido escrito en un lenguaje de programación a un lenguaje diferente, usualmente lenguaje de máquina, aunque también puede ser traducido a un código intermedio (bytecode) o a texto. Tras compilar se crea un archivo ejecutable, que su extensión depende del programa en el cual haya sido programado, por ejemplo si esta programado en Java será .class o si es en C su extensión será .c .
 
 http://www.programa-me.com/documents/GuiaCompilacionCLI.pdf
@@ -7,7 +8,12 @@ https://brainly.lat/tarea/5177532#readmore
 
 **2.¿Para que sirve un enlazador? ¿Qué tipo de archivo obtenemos tras enlazar?**
 
+Un enlazador es un programa que toma los objetos hechos en los primeros pasos del proceso de compilación, la información de todos los recursos necesarios como en la biblioteca, quita aquellos recursos que no se necesita, y enlaza el código objeto con su biblioteca con lo que finalmente produce un fichero ejecutable. En el caso de los programas enlazados dinámicamente, el enlace entre el programa ejecutable y las bibliotecas se realiza en tiempo de carga o ejecución del programa. Existen programas que se enlazan en el momento en el que se carga el programa. Tras enlazar lo que obtenemos son archivos ejecutables.
+
+https://sites.google.com/site/informaticaactualysencilla/software/enlazadores
+
 **3.¿Para que sirve un interprete? ¿Obtenemos algún archivo tras interpretar?**
+En ciencias de la computación, intérprete o interpretador es un programa informático capaz de analizar y ejecutar otros programas. El intérprete no crea ningún archivo simplemente intrepreta un archivo a lenguaje máquina.
 
 **4.Explica cada uno de los siguientes conceptos e indica la relación entre ellos.**
 
