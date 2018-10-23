@@ -1,4 +1,5 @@
 #Herramientas de desarrollo
+###Introducción
 **1. ¿Para que sirve un compilador? ¿Qué tipo de archivo obtenemos tras compilar?**
 
 Un compilador es un programa informático que traduce un programa que ha sido escrito en un lenguaje de programación a un lenguaje diferente, usualmente lenguaje de máquina, aunque también puede ser traducido a un código intermedio (bytecode) o a texto. Tras compilar se crea un archivo ejecutable, que su extensión depende del programa en el cual haya sido programado, por ejemplo si esta programado en Java será .class o si es en C su extensión será .c .
@@ -15,12 +16,49 @@ https://sites.google.com/site/informaticaactualysencilla/software/enlazadores
 **3.¿Para que sirve un interprete? ¿Obtenemos algún archivo tras interpretar?**
 En ciencias de la computación, intérprete o interpretador es un programa informático capaz de analizar y ejecutar otros programas. El intérprete no crea ningún archivo simplemente intrepreta un archivo a lenguaje máquina.
 
+http://www.cavsi.com/preguntasrespuestas/que-es-un-interprete/
+
 **4.Explica cada uno de los siguientes conceptos e indica la relación entre ellos.**
 
-- código fuente
-- código objeto
-- código binario
+- Código fuente, es un conjunto de líneas de texto con los pasos que debe seguir la computadora para ejecutar dicho programa. 
+- Código objeto, código que resulta de la compilación del código fuente.​ Puede ser en lenguaje máquina o bytecode, y puede distribuirse en varios archivos que corresponden a cada código fuente compilado. Luego un enlazador (linker) se encarga de juntar todos los archivos de código objeto para obtener el programa ejecutable
+- Código binario,es el sistema numérico usado para la representación de textos, o procesadores de instrucciones de computadora, utilizando el sistema binario(ceros y unos). 
+Todos estos códigos están relacionados entre sí, a través del código fuente que es el que programamos y con ayuda del compilador obtenemos el codigo objeto  que con un enlazador obtenemos el ejecutable del programa. Ese código objeto tiene un código binario que es el que el ordenador entiene y hace funcionar el programa.
 
 **5.¿Qué tipo de código es el bytecode generado por el compilador de Java?**
+El bytecode un código intermedio más abstracto que el código máquina. Habitualmente es tratado como un archivo binario que contiene un programa ejecutable similar a un módulo objeto, que es un archivo binario producido por el compilador cuyo contenido es el código objeto o código máquina.
 
-**Bibliografía**
+http://unidad2-dispositivosmoviles.blogspot.com/2017/03/bytecode-java.html
+
+###Herramientas de Desarrollo
+
+**1. Ejecuta el programa "Hola mundo" en los siguientes lenguajes:**
+
+   bash
+    python
+    php
+    javascript (nodejs)
+    c
+    c++
+    java
+    ruby
+    go
+    rust
+    lisp
+    ensamblador (nasm)
+
+**2. Para cada uno de los lenguajes anteriores, indica el proceso realizado para conseguir ejecutar el código: ¿compilación o interpretación?**
+
+   bash: interpretado
+   python: interpretado
+   php: interpretado
+   javascript (nodejs): interpretado
+   c: 
+   c++
+   java
+   ruby
+   go
+   rust
+   lisp
+   ensamblador (nasm)
+
