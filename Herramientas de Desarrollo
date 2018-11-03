@@ -166,20 +166,7 @@ http://unidad2-dispositivosmoviles.blogspot.com/2017/03/bytecode-java.html
 	./hola.lisp
 
 **6. ¿Qué extensión tienen los archivos de código objeto?**
-
-    bash
-    python
-    php
-    javascript (nodejs)
-    c
-    c++
-    java
-    ruby
-    go
-    rust
-    lisp
-    ensamblador (nasm)
-
+La extensión del código objeto cambia según el lenguaje, por ejemplo en c su extensión es .o.
 
 **7. Lenguaje C. Código en varios archivos. Obtener el código objeto a partir del código fuente de los 3 archivos siguientes**
 
@@ -196,4 +183,37 @@ En informática, una biblioteca o, llamada por vicio del lenguaje librería (del
 - Bibliotecas remotas
 
 **12. Bibliotecas. ¿Qué tipo es el más utilizado actualmente? ¿Por qué?**
+ Actualmente las bibliotecas mas utilizadas son las bibliotecas dinámicas porque el programa tiene menor tamaño y el programa siempre esta actulaizado respecto a la biblioteca, sus desventajas son que el programa no esta autocontenido y las actualizaciones le pueden afectar tanto para bien como para mal.
  
+ **13. Bibliotecas. Crea una biblioteca dinámica en C que proporcione las funciones para sumar, restar, multiplicar y dividir 2 números enteros. Crea un programa que haga uso de ella y comprueba que se ejecuta correctamente.**
+
+**14. Bibliotecas. Crea una biblioteca dinámica en Java que proporcione las funciones para sumar, restar, multiplicar y dividir 2 números enteros. Crea un programa que haga uso de ella y comprueba que se ejecuta correctamente.**
+
+**15. Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas estáticas.**
+**Ventajas:**
+Programa autocontenido.
+Las actualizaciones de la biblioteca no le afectan.
+
+**Desventajas:**
+Mayor tamaño del programa.
+El programa no se beneficia de las actualizaciones de la biblioteca.
+
+**16.Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas dinámicas.**
+**Ventajas:**
+Menor tamaño del programa.
+El programa se beneficia de las actualizaciones de la biblioteca.
+
+**Desventajas:**
+Programa no autocontenido.
+Las actualizaciones de la biblioteca le afectan para bien y para mal.
+
+**17. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo ejecutable para código fuente en C con make. Haz uso de un buildfile.**
+
+**18. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo .jar para código fuente en Java con Ant. Haz uso de un buildfile.**
+
+**19. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo .jar para código fuente en Java con Maven. Haz uso de un buildfile.**
+
+**20. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo .jar para código fuente en Java con Gradle. Haz uso de un buildfile.**
+
+**21. CMake. Automatiza el proceso de compilación de ejecutable y bibliotecas, su enlazado y la generación del archivo ejecutable para código fuente en C++. Crea un buildfile con CMake.**
+
